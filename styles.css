@@ -18,6 +18,10 @@ body{
 	text-align: right;
 }
 
+td{
+	border: 1px solid black
+}
+
 .green{
     background-color: green;
 }
